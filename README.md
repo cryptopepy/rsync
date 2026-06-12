@@ -1,3 +1,5 @@
+Note: This rsync fork is frozen at stable release 3.3.0, to avoid bugs introduced in later commits.
+
 WHAT IS RSYNC?
 --------------
 
